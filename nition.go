@@ -1,4 +1,4 @@
-package main
+package nition
 
 //go:generate go run gen/vfsdata/main.go
 
