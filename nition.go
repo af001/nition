@@ -1,4 +1,4 @@
-package recog
+package main
 
 //go:generate go run gen/vfsdata/main.go
 
